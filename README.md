@@ -1,10 +1,10 @@
 - 👋  👋  👋  👋   👋  👋  👋  👋  👋  👋  👋  👋  👋  👋 
-- Hi, My name is Sourav [@dokaniasourav], you can also call me Sam
+- Hi, My name is Sourav [*@dokaniasourav*], you can also call me Sam
 - I am a graduate student studying computer engineering at Texas A&M
 - 👀  👀  👀  👀  👀  👀  👀  👀  👀  👀  👀  👀  👀  👀 
 - I like to play TT, Badminton and also swimming
 - I’m coding in C++ and Python but I am also good in Javascript
-- I like to learn new things want to travell the world
+- I like to learn new things want to travel the world
 -  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱
 - I’m currently learning 普通话 and want to next learn Japanese
 - I am studying advanced comp arch and OS in my acedemia
