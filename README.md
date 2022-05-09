@@ -9,5 +9,4 @@
 - I’m currently learning 普通话 and want to next learn Japanese
 - I am studying advanced comp arch and OS in my acedemia
 -  📫  📫  📫  📫  📫  📫  📫  📫  📫  📫  📫  📫  📫  📫
-- Reach me at my email: 
--     **sourav.dokania25@gmail.com**
+- Reach me at my email: **sourav.dokania25@gmail.com**
