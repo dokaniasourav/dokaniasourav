@@ -1,12 +1,24 @@
-- 👋  👋  👋  👋   👋  👋  👋  👋  👋  👋  👋  👋  👋  👋 
-- Hi, My name is Sourav [*@dokaniasourav*], you can also call me Sam
-- I am a graduate student studying computer engineering at Texas A&M
-- 👀  👀  👀  👀  👀  👀  👀  👀  👀  👀  👀  👀  👀  👀 
-- I like to play TT, Badminton and also swimming
-- I’m coding in C++ and Python but I am also good in Javascript
-- I like to learn new things want to travel the world
+Hello Reader, 
+
+My name is Sourav [*@dokaniasourav*], and I recently graduated
+from Texas A&M University in Computer Engineering!
+
+Some of my faviouriate projects are as follows:
+1. Making a home-automation system using ESP32 and the corresponding Web Framework
+2. Perceptron based cache prefetching filtering
+3. Line Integral Convolution on Digital Images using WebGL
+
+
+In my spare time I like to play Table Tennis, Badminton and go 
+for swimming at times. My faviourite coding languages are C, C++ and 
+Javascript but also really like Python.
+
+One thing I want the most is to travel to diffrent countries with
+someone. I also like to learn new languages (currently learning 普通话
+and want to next learn Japanese or Korean).
+
+Would like to update this as I go, so stay tuned!
+
 -  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱
-- I’m currently learning 普通话 and want to next learn Japanese
-- I am studying advanced comp arch and OS in my acedemia
--  📫  📫  📫  📫  📫  📫  📫  📫  📫  📫  📫  📫  📫  📫
 - Reach me at my email: **sourav.dokania25@gmail.com**
+-  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱  🌱
