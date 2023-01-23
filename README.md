@@ -14,8 +14,7 @@ for swimming at times. My faviourite coding languages are C, C++ and
 Javascript but also really like Python.
 
 One thing I want the most is to travel to diffrent countries with
-someone. I also like to learn new languages (currently learning 普通话
-and want to next learn Japanese or Korean).
+someone. I also like to learn new languages (currently learning 普通话 ...)
 
 Would like to update this as I go, so stay tuned!
 
