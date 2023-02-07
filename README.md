@@ -11,10 +11,7 @@ along with its corresponding website and backend. Checkout some of that code her
 
 In my spare time I like to play Table Tennis, Badminton and go 
 for swimming at times. My faviourite coding languages are C, C++ and 
-Javascript but also really like Python.
-
-One thing I want the most is to travel to diffrent countries with
-someone. I also like to learn new languages (currently learning 普通话 ...)
+Javascript but also really like Python
 
 Would like to update this as I go, so stay tuned!
 
